@@ -1,0 +1,45 @@
+body{
+    background-color: darkblue;
+}
+p{
+    color: red;
+}
+td{
+    color :red
+}
+th{
+    color: red;
+}
+div{
+color: white;
+}
+#Foto4{
+    width: 200px;
+}
+h1{
+    color: white;
+}
+#Foto5{
+width: 400px;
+margin-left: -1000px;
+}
+#Astro{
+    width: 400px;
+    margin-left: -400px;
+}
+#Ahoy{
+    width: 400px;
+    margin-left: 2000px;
+    margin-top: -100px;
+}
+#optreden{
+    width: 400px;
+    margin-left: 1000px;
+    margin-top: -995px;  
+    margin-right: 1000px;
+}
+#travisscott{
+    width: 400px;
+    margin-left: 100px;
+    margin-top: -1000px;
+}

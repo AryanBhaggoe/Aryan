@@ -1,0 +1,27 @@
+body{
+    background-color: darkblue;
+}
+div{
+    background-color: white;
+}
+body{
+    font-size: 65px;
+}
+p{
+    font-size: large;
+    color: red
+    ;
+}
+#album{
+    
+    width: 400px;
+
+}
+ #Foto2{
+    width: 400px;
+}
+   #Foto3{
+    margin-left: 990px;
+    position: absolute;
+   }
+    
